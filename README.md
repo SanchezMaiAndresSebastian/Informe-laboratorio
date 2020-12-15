@@ -96,7 +96,8 @@ Terminamos midiendo el voltaje de cada resistor
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo
  
 #### 8.	CONCLUSIONES
- - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta naturalmente 
+ - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
+ -Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
 
 
 #### 9.	BIBLIOGRAFÍA
