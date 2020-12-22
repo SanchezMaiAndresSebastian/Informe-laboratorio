@@ -81,9 +81,14 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 | Resistencia 1,8 kΩ | 1 |
 | Resistencia 3,9 kΩ | 1 |
  
-> (Herramientas utilizadas en simulación)
-
+> (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
 
 #### 5.	EXPLICACIÓN
 
