@@ -72,6 +72,7 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 #### 4.	LISTA DE COMPONENTES
 
 | Componenete | Cantidad |
+| ----------- | -------- |
 | Protoboard | 1 |
 | Fuente de voltaje de corriente continua | 1 |
 | Multímetro | 1 |
