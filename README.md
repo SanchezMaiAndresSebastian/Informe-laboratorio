@@ -92,7 +92,7 @@ Aramar el circuito
 
 ###### _FIGURA 5_
 
-> 5.1 Calculos de forma teorica
+__5.1__ Calculos de forma teorica
 
 - Calcular la corriente en las mallas
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/14.png) 
@@ -109,15 +109,15 @@ Aramar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
 
-5.2 Tabulacion de los datos
+__5.2__ Tabulacion de los datos
 
-5.2.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+__5.2.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
 
 Tabla 1
 
-5.2.2 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+__5.2.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1
 
@@ -125,7 +125,7 @@ signo negativo. Anote los resultados en la tabla 1
 
 Tabla 2
 
-5.2.3 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+__5.2.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 2.
 
@@ -133,14 +133,14 @@ del nodo. Anote los resultados en la tabla 2.
 
 Tabla 3
 
-5.2.4 Compare los resultados medidos con los valores obtenidos al analizar el circuito
+__5.2.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/21.png) 
 
 Tabla 4
 
-5.2.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito
+__5.2.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
