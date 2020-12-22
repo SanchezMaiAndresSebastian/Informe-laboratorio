@@ -31,9 +31,10 @@ Una malla  es una trayectoria conductora cerrada, Para la malla de la siguiente 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/4.png)
 
+###### _FIGURA 2_
+
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/5.png)
 
-###### _FIGURA 2_
 
 Sumando miembro a miembro y ordenando, se tiene    
 
@@ -64,7 +65,7 @@ Como ya se indicó con anterioridad, una dels formas de indicar el valor nominal
 
 El código empleado es el siguiente:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/30.jpeg)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/30.jpg)
 
 ###### _FIGURA 3_
 
@@ -113,7 +114,7 @@ Aramar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
-###### _FIGURA 5_
+###### _FIGURA 4_
 
 __5.1__ Calculos de forma teorica
 
