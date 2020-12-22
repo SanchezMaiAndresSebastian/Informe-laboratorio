@@ -74,7 +74,7 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 | Componenete | Cantidad |
 | ----------- | -------- |
 | Protoboard | 1 |
-| Fuente de voltaje de corriente continua | 1 |
+| Fuente de voltaje de D.C. | 1 |
 | Multímetro | 1 |
 | Resistencia 1 kΩ | 1 |
 | Resistencia 2,2 kΩ | 2 |
