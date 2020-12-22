@@ -71,26 +71,57 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 #### 4.	LISTA DE COMPONENTES
 
-| Componentes | Cantidad |
-| ----------- | -------- |
-| Protoboard | 1 |
-| Fuente de voltaje de C.D. | 1 |
-| Multímetro | 1 |
-| Resistencia 1 kΩ | 1 |
-| Resistencia 2,2 kΩ | 2 |
-| Resistencia 1,8 kΩ | 1 |
-| Resistencia 3,9 kΩ | 1 |
+| Cantidad | Componentes | 
+| -------- | ----------- | 
+| 1 |Protoboard | 
+| 1 |Fuente de voltaje de C.D. | 
+| 1 |Multímetro | 
+| 1 |Resistencia 1 kΩ | 
+| 2 |Resistencia 2,2 kΩ | 
+| 1 |Resistencia 1,8 kΩ | 
+| 1 |Resistencia 3,9 kΩ | 
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
 
 
 #### 5.	EXPLICACIÓN
+Aramar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
-_FIGURA 5_
+##### _FIGURA 5_
 
+> 5.1 Calculos de forma teorica
+
+- Calcular la corriente en las mallas
+
+- Calcular el voltaje 
+
+- Calcular La corriente de los nodos
+
+- Calculo del error porcentual
+
+5.2 Tabulacion de los datos
+
+5.2.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+
+Tabla 1
+
+5.2.2 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1
+
+5.2.3 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla.
+
+5.2.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.
+
+5.2.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
 Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
