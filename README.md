@@ -4,13 +4,16 @@
 
 **Principales**
 
- -	Experimentar con las Leyes de Kirchhoff
- - Construir un circuito
+ -	Experimentar con las Leyes de Kirchhoff y los circuitos mixtos.
+ - Construir un circuito.
 
 **Específicos**
 
-- Distinguir entre lo que es corrinete y voltaje
+- Distinguir entre lo que es corriente y voltaje
 - Investigar lo que es la leyes de Kirchoff
+- Diferenciar las partes de una herramienta electrica
+- Concocer como funciona el multimetro
+- Consultar la nomenclatura de colores y valores parar las resistencias.
 
 ### 2.	MARCO TEÓRICO 
 Los circuitos no siempre se pueden reducir a circuitos sencillos (serie y paralelo). Se tiene que utilizar nuevas leyes para resolver el circuito: lo que significa que dadas las unidades de los generadores, sus resistencias internas y las resistencias externas debemos encontrar las intensidades en cada rama del circuito. 
@@ -142,6 +145,8 @@ Tabla 4
 __5.2.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
+
+
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
 Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
 Terminamos midiendo el voltaje de cada resistor 
@@ -156,11 +161,12 @@ Terminamos midiendo el voltaje de cada resistor
 
  - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito,
  - No es lo mismo la medición de voltaje con corriente 
- - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo
+ - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
+ - Si se tiene diferentes 
  
 ### 8.	CONCLUSIONES
  - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
- -Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
+ - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
 
 
 ### 9.	BIBLIOGRAFÍA
