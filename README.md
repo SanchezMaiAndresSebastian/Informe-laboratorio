@@ -13,7 +13,7 @@
 - Investigar lo que es la leyes de Kirchoff
 
 #### 2.	MARCO TEÓRICO 
-Los circuitos no siempre se pueden reducir a circuitos sencillos (serie y paralelo). Sr tiene que utilizar nuevas leyes para resolver el circuito: lo que significa que dadas las fem de los generadores y sus resistencias internas y las resistencias externas debemos encontrar las intensidades en cada rama del circuito. 
+Los circuitos no siempre se pueden reducir a circuitos sencillos (serie y paralelo). Se tiene que utilizar nuevas leyes para resolver el circuito: lo que significa que dadas las unidades de los generadores, sus resistencias internas y las resistencias externas debemos encontrar las intensidades en cada rama del circuito. 
 Un nodo es un punto del circuito donde tres o más conductores concurren. En el nodo, como consecuencia de la conservación de la carga, la suma de las intensidades que llegan es igual a la suma de las intensidades que salen, o sea:
 Por ejemplo, en la siguiente figura se tiene:  
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/1.png)
@@ -89,7 +89,7 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
-FIGURA 5
+_FIGURA 5_
 
 
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
