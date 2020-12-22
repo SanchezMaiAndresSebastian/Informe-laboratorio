@@ -181,15 +181,15 @@ Terminamos midiendo el voltaje de cada resistor
  
 ### 7.	APORTACIONES
 
- - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito,
+ - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
  - No es lo mismo la medición de voltaje con corriente 
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
- - Si se tiene diferentes 
+ - LLa fuente de corriente directa mide cuantos amperios tiene el circuito.
  
 ### 8.	CONCLUSIONES
  - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
  - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
-
+ - Cuando en unn resistor se encuentra aplicado con el multímetro la medicion de su corriente, cambia el voltaje de los demas resistores que se tienen midiendo con los demás herraminetas
 
 ### 9.	BIBLIOGRAFÍA
 
