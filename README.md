@@ -17,20 +17,20 @@ Los circuitos no siempre se pueden reducir a circuitos sencillos (serie y parale
 Un nodo es un punto del circuito donde tres o más conductores concurren. En el nodo, como consecuencia de la conservación de la carga, la suma de las intensidades que llegan es igual a la suma de las intensidades que salen, o sea:
 Por ejemplo, en la siguiente figura se tiene:  
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/1.png)
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/2.png)
-
-FIGURA 1 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/2.png) 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/3.png)
 
+###### _FIGURA 1_
 
 Una malla  es una trayectoria conductora cerrada, Para la malla de la siguiente figura calculamos la diferencia de potencial en cada rama:ç
 
-FIGURA 2
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/4.png)
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/5.png)
+
+###### _FIGURA 2_
 
 Sumando miembro a miembro y ordenando, se tiene    
 
@@ -45,10 +45,9 @@ Es de notar que la relación anterior es una consecuencia de la conservación de
 Procedimiento.
 Armamos el siguiente circuito:
 
-FIGURA 3
-
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/8.png)
 
+###### _FIGURA 3_
 
 Medida la corriente y el voltaje en cada uno de los resistores y compárelos con los valores teóricos. Complete la tabla de la hoja de informes en esta práctica.
 ### 3.	DIAGRAMAS
