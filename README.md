@@ -171,3 +171,18 @@ Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion.
 R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 10.	 ANEXOS
 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/22.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/23.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/24.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/25.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/26.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/28.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/29.png)
+
