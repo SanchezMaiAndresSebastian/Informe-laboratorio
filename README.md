@@ -71,16 +71,19 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 #### 4.	LISTA DE COMPONENTES
 
-| Componenete | Cantidad |
+| Componentes | Cantidad |
 | ----------- | -------- |
 | Protoboard | 1 |
-| Fuente de voltaje de D.C. | 1 |
+| Fuente de voltaje de C.D. | 1 |
 | Multímetro | 1 |
 | Resistencia 1 kΩ | 1 |
 | Resistencia 2,2 kΩ | 2 |
 | Resistencia 1,8 kΩ | 1 |
 | Resistencia 3,9 kΩ | 1 |
-| Protoboard | 1 |
+ 
+> (Herramientas utilizadas en simulación)
+
+> Simulador thinkercad
 
 #### 5.	EXPLICACIÓN
 
