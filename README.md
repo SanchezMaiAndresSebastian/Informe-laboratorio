@@ -48,11 +48,30 @@ Es de notar que la relación anterior es una consecuencia de la conservación de
 Procedimiento.
 Armamos el siguiente circuito:
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/8.png)
+__Resistores__
+
+En todas las resistencias nos podemos encontrartres características, el valor nominal expresado en ómios (W), la tolerancia en % y la potencia en vatios (W).
+
+- Valor nominal: Es el que indica el fabricante. Este valor normalmente es diferente del valor real, pues influyen diferentes factores de tipo ambiental o de los mismos procesos de fabricación, pues no son exactos. Suele venir indicado, bien con un código de colores, bien con caracteres alfanuméricos.
+
+- Tolerancia: Debido a los factores indicados anteriormente, y en función de la exactitud que se le de al valor, se establece el concepto de tolerancia como un % del valor nominal. De esta forma, si nosotros sumamos el resultado de aplicar el porcentaje al valor nominal, obtenemos un valor límite superior. Si por el contrario lo que hacemos es restarlo, obtenemos un valor límite inferior. Con la toelrancia, el fabricante nos garantiza que el valor real de la resistencia va a estar siempre contenido entre estos valores, Si esto no es así, el componente está defectuoso.
+
+- Potencia nominal: Es el valor de la potencia disipada por el resistor en condiciones normales de presión y temperatura.
+
+__Clasificación de Reistores__
+
+Como ya se indicó con anterioridad, una dels formas de indicar el valor nominal de una resistencia es mediante un código de colores que consta, como norma general, de 3 bandas de valor y una de tolerancia.
+
+El código empleado es el siguiente:
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/30.jpeg)
 
 ###### _FIGURA 3_
 
 Medida la corriente y el voltaje en cada uno de los resistores y compárelos con los valores teóricos. Complete la tabla de la hoja de informes en esta práctica.
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/30.png)
+
 ### 3.	DIAGRAMAS
 
 - Diagrama de bloques
@@ -70,6 +89,8 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
  - Diagramas esquemáticos.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/12.png) 
+
+
 
 ### 4.	LISTA DE COMPONENTES
 
