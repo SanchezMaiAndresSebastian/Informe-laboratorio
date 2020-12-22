@@ -1,6 +1,6 @@
 # Informe de Laboratorio 1
-### Leyes de Kirchoff
-#### 1.	OBJETIVOS
+## Leyes de Kirchoff
+### 1.	OBJETIVOS
 
 **Principales**
 
@@ -12,7 +12,7 @@
 - Distinguir entre lo que es corrinete y voltaje
 - Investigar lo que es la leyes de Kirchoff
 
-#### 2.	MARCO TEÓRICO 
+### 2.	MARCO TEÓRICO 
 Los circuitos no siempre se pueden reducir a circuitos sencillos (serie y paralelo). Se tiene que utilizar nuevas leyes para resolver el circuito: lo que significa que dadas las unidades de los generadores, sus resistencias internas y las resistencias externas debemos encontrar las intensidades en cada rama del circuito. 
 Un nodo es un punto del circuito donde tres o más conductores concurren. En el nodo, como consecuencia de la conservación de la carga, la suma de las intensidades que llegan es igual a la suma de las intensidades que salen, o sea:
 Por ejemplo, en la siguiente figura se tiene:  
@@ -51,7 +51,7 @@ FIGURA 3
 
 
 Medida la corriente y el voltaje en cada uno de los resistores y compárelos con los valores teóricos. Complete la tabla de la hoja de informes en esta práctica.
-#### 3.	DIAGRAMAS
+### 3.	DIAGRAMAS
 
 - Diagrama de bloques
 
@@ -69,7 +69,7 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/12.png) 
 
-#### 4.	LISTA DE COMPONENTES
+### 4.	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
@@ -85,12 +85,12 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 > Simulador thinkercad
 
 
-#### 5.	EXPLICACIÓN
+### 5.	EXPLICACIÓN
 Aramar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
-##### _FIGURA 5_
+###### _FIGURA 5_
 
 > 5.1 Calculos de forma teorica
 
@@ -127,27 +127,27 @@ En el circuito que hemos construido se ve como la unión de diferentes elementos
 Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
 Terminamos midiendo el voltaje de cada resistor 
 
-#### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
  - Siempre tener conectado a una fuente de corriente continua
  - Tener la fuente de voltaje configurada para la medición en voltios
  - Tener el multímetro siempre en la configurada en la medición de voltios 
  
-#### 7.	APORTACIONES
+### 7.	APORTACIONES
 
  - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito,
  - No es lo mismo la medición de voltaje con corriente 
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo
  
-#### 8.	CONCLUSIONES
+### 8.	CONCLUSIONES
  - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
  -Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
 
 
-#### 9.	BIBLIOGRAFÍA
+### 9.	BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion. Serway,
 
 R. (2001). Fisica II. Mexico: Pearson Educacion.
-#### 10.	 ANEXOS
+### 10.	 ANEXOS
 
