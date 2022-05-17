@@ -205,9 +205,9 @@ R. (2001). Fisica II. Mexico: Pearson Educacion.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/24.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/31.png)
-
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/32.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/31.png)
 
 
 
