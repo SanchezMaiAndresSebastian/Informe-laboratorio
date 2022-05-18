@@ -109,7 +109,7 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 
 ### 5.	EXPLICACIÓN
-Aramar el circuito
+Armar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
