@@ -5,7 +5,7 @@
 **Principales**
 
  -	Experimentar con las Leyes de Kirchhoff y los circuitos mixtos.
- - Construir un circuito.
+ - Construir un circuito en el simulador.
 
 **Específicos**
 
