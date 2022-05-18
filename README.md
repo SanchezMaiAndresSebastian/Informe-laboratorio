@@ -4,7 +4,7 @@
 
 **Principales**
 
- -	Experimentar con las Leyes de Kirchhoff y los circuitos mixtos.
+ -	Experimentar con las Leyes de Kirchhoff y los circuitos mixtos mediante el uso del simulador Tinkercad.
  - Construir un circuito en el simulador.
 
 **Específicos**
