@@ -9,7 +9,7 @@
 
 **Específicos**
 
-- Distinguir entre lo que es corriente y voltaje
+- Distinguir los conceptos de corriente y voltaje
 - Investigar lo que es la leyes de Kirchoff
 - Diferenciar las partes de una herramienta electrica
 - Concocer como funciona el multimetro
