@@ -134,7 +134,7 @@ __8.1__ Tabulacion de los datos
 
 __8.1.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/50.png) 
 
 Tabla 1
 
@@ -142,7 +142,7 @@ __8.1.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayect
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/19.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/51.png) 
 
 Tabla 2
 
@@ -150,14 +150,14 @@ __8.1.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo,
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 2.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/20.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/52.png) 
 
 Tabla 3
 
 __8.1.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/21.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/53.png) 
 
 Tabla 4
 
