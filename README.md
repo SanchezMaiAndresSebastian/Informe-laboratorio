@@ -129,7 +129,7 @@ Armar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/48.png) 
 
-### 6. DESCRICPCION DE USUARIO
+### 6. MANUAL DE USUARIO
 
 ### 7.	DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
