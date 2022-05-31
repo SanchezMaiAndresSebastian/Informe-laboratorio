@@ -111,26 +111,10 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 ### 5.	EXPLICACIÓN
 Armar el circuito
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/13.png) 
 
 ###### _FIGURA 4_
 
-__5.1__ Calculos de forma teorica
 
-- Calcular la corriente en las mallas
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/14.png) 
-
-- Calcular el voltaje 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/15.png)
-
-- Calcular La corriente de los nodos
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/16.png) 
-
-- Calculo del error porcentual
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
 
 ### 6. DESCRICPCION DE USUARIO
 
