@@ -194,12 +194,12 @@ Terminamos midiendo el voltaje de cada resistor
  - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
  - La fuente de corriente directa mide cuantos amperios tiene el circuito
 
-### 9.	BIBLIOGRAFÍA
+### 10.	BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion. Serway,
 
 R. (2001). Fisica II. Mexico: Pearson Educacion.
-### 10.	 ANEXOS
+### 11.	 ANEXOS
 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/22.png)
