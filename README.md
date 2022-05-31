@@ -111,9 +111,13 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 ### 5.	EXPLICACIÓN
 Armar el circuito
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/49.png)
 
 ###### _FIGURA 4_
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/22.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/23.png)
 
 
 ### 6. DESCRICPCION DE USUARIO
@@ -184,13 +188,3 @@ Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion.
 
 R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 11.	 ANEXOS
-
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/22.png)
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/23.png)
-
-
-
-
-
