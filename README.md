@@ -193,8 +193,11 @@ R. (2001). Física II. México: Pearson Educacion.
 ### 11.	 ANEXOS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/41.png)
+Representación Gráfica de la ley voltaje de Kirchhoff
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/42.png)
+Representación Gráfica de la Ley de corriente de Kirchoff
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/43.png)
+Representación Gráfica de la Ley de mallas de Kirchoff
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/55.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/56.jpg)
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/57.jpg)
