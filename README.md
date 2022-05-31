@@ -102,21 +102,25 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 ### 5.	EXPLICACIÓN
 
-###### _FIGURA 4_
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/22.png)
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/23.png)
-
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/44.png) 
+
+Se hace una sepración de las herramientas que vamos a usar durante está practica
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/45.png) 
 
+Se pone los resistores como se muestra en el digrama eléctrico dentro de la placa de pruebas.
+
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/46.png) 
+
+Se conceta con alambras los resistores para que sea un circuito cerrado.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/47.png) 
 
+Para medir el voltaje de cada uno de los elementos resisitivos se debe de conectar el multimetro de forma que forme un circuito en paralelo.
+
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/48.png) 
+
+Para medir la corriente de cada uno de los elementos resisitivos se debe de conectar el mutimetro de forma que forme un circuito en serie.
 
 ### 6. MANUAL DE USUARIO
 
