@@ -132,15 +132,25 @@ __5.1__ Calculos de forma teorica
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/17.png) 
 
-__5.2__ Tabulacion de los datos
+### 6. DESCRICPCION DE USUARIO
 
-__5.2.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+### 7.	DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
+ - Siempre tener conectado a una fuente de corriente continua
+ - Tener la fuente de voltaje configurada para la medición en voltios
+ - Tener el multímetro siempre en la configurada en la medición de voltios 
+ 
+### 8.	APORTACIONES
+
+__8.1__ Tabulacion de los datos
+
+__8.1.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
 
 Tabla 1
 
-__5.2.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+__8.1.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1
 
@@ -148,7 +158,7 @@ signo negativo. Anote los resultados en la tabla 1
 
 Tabla 2
 
-__5.2.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+__8.1.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 2.
 
@@ -156,14 +166,14 @@ del nodo. Anote los resultados en la tabla 2.
 
 Tabla 3
 
-__5.2.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
+__8.1.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/21.png) 
 
 Tabla 4
 
-__5.2.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
+__8.1.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
 
 
@@ -171,26 +181,18 @@ analíticamente y concluya al respecto.
 En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
 Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
 Terminamos midiendo el voltaje de cada resistor 
-
-### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
- - Siempre tener conectado a una fuente de corriente continua
- - Tener la fuente de voltaje configurada para la medición en voltios
- - Tener el multímetro siempre en la configurada en la medición de voltios 
+ .
  
-### 7.	APORTACIONES
-
- - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
- - No es lo mismo la medición de voltaje con corriente 
- - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
- - La fuente de corriente directa mide cuantos amperios tiene el circuito.
- 
-### 8.	CONCLUSIONES
+### 9.	CONCLUSIONES
  - Se demostro que las leeys de kirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del circuito elaborado.
  - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamente los terminales en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se utiliza correctamente pueden sufrir una disminución de la vida útil de la herramienta.
  - Cuando se esta midiendo el corriente de un resistor en el multímetro, cambia el valor de la corriente de los demas resistores que se tienen midiendo con los demás herramientas en el mismo tiempo.
  - Las resistencias que se utilizan en el simulador no tiene margen de error de los valores obtenidos.
  - Las herramientas de medición de corriente y volataje son idoneos, es decir que no presentan errores de medición a causa de los materiales que están elaborados.
+ - No hay paso de corriente si se invierten la tomas positivas y negativas de un circuito.
+ - No es lo mismo la medición de voltaje con corriente 
+ - El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
+ - La fuente de corriente directa mide cuantos amperios tiene el circuito
 
 ### 9.	BIBLIOGRAFÍA
 
