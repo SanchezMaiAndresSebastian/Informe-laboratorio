@@ -119,6 +119,18 @@ Armar el circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/23.png)
 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/44.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/45.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/46.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/47.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/48.png) 
+
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/49.png) 
+
 
 ### 6. DESCRICPCION DE USUARIO
 
