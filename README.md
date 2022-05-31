@@ -74,21 +74,13 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 ### 3.	DIAGRAMAS
 
-- Diagrama de bloques
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png)
-
-- Diagramas UML
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/10.png)
-
 - Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/49.png)
  
  - Diagramas esquemáticos.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/12.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/54.png) 
 
 
 
@@ -109,9 +101,6 @@ Medida la corriente y el voltaje en cada uno de los resistores y compárelos con
 
 
 ### 5.	EXPLICACIÓN
-Armar el circuito
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/49.png)
 
 ###### _FIGURA 4_
 
