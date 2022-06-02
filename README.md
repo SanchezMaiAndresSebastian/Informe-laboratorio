@@ -1,6 +1,6 @@
 # Informe de Laboratorio 1
 
-### Nombre de los integrantes:###
+### Nombre de los integrantes: 
 Bryan Almachi
 
 Norma Calvopiña
