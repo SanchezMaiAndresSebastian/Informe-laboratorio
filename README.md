@@ -1,4 +1,10 @@
 # Informe de Laboratorio 1
+
+Nombre de los integrantes:
+Bryan Almachi
+Norma Calvopiña
+Andrés Sánchez
+
 ## Leyes de Kirchoff
 ### 1.	OBJETIVOS
 
